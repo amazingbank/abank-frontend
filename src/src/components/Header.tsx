@@ -1,5 +1,6 @@
 import React from 'react';
 import { Landmark } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
@@ -11,6 +12,8 @@ function Header() {
             <span className="ml-2 text-xl font-bold text-gray-900 hover:text-blue-600 transition-colors duration-300">The Amazing Bank</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
+            <Link to="/" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Home</Link>
+            <Link to="/interest-calculator" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Calculator</Link>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Personal</a>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Business</a>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">About</a>
