@@ -1,6 +1,6 @@
 English | [中文](README_cn.md)
 
-# The Amazing Bank - Frontend Application
+# 奇迹银行 (The Amazing Bank) - Frontend Application
 
 ## Business Background
 The Amazing Bank is a modern banking platform designed to provide seamless online banking experiences to both personal and business customers. Our mission is to make banking simple, secure, and accessible to everyone.
