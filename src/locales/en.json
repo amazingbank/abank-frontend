@@ -1,0 +1,71 @@
+{
+  "header": {
+    "home": "Home",
+    "personal": "Personal",
+    "business": "Business",
+    "about": "About",
+    "onlineBanking": "Online Banking",
+    "bankName": "The Amazing Bank"
+  },
+  "home": {
+    "hero": {
+      "title1": "Banking Made",
+      "title2": "Simple and Secure",
+      "description": "Experience the next generation of banking with our cutting-edge digital services. Secure, convenient, and designed for your lifestyle.",
+      "getStarted": "Get Started",
+      "imageAlt": "Modern banking illustration"
+    },
+    "features": {
+      "subtitle": "WHY CHOOSE US",
+      "title": "Everything you need in a modern bank",
+      "security": {
+        "title": "Bank-grade Security",
+        "description": "Your security is our top priority. We use state-of-the-art encryption and security measures to protect your assets."
+      },
+      "savings": {
+        "title": "Smart Savings",
+        "description": "Maximize your savings with our competitive interest rates and intelligent saving tools."
+      },
+      "creditCards": {
+        "title": "Rewarding Credit Cards",
+        "description": "Earn rewards on every purchase with our range of credit cards designed to match your lifestyle."
+      }
+    },
+    "cta": {
+      "title1": "Ready to get started?",
+      "title2": "Open an account in minutes.",
+      "button": "Open Account Now"
+    }
+  },
+  "footer": {
+    "products": {
+      "title": "Products",
+      "checking": "Checking",
+      "savings": "Savings",
+      "creditCards": "Credit Cards",
+      "loans": "Loans"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "careers": "Careers",
+      "press": "Press",
+      "contact": "Contact"
+    },
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "helpCenter": "Help Center",
+      "security": "Security",
+      "privacy": "Privacy"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookies": "Cookies",
+      "licenses": "Licenses"
+    },
+    "copyright": "© 2025 The Amazing Bank. All rights reserved."
+  }
+}

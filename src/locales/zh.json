@@ -1,0 +1,71 @@
+{
+  "header": {
+    "home": "首页",
+    "personal": "个人业务",
+    "business": "企业业务",
+    "about": "关于我们",
+    "onlineBanking": "网上银行",
+    "bankName": "奇迹银行"
+  },
+  "home": {
+    "hero": {
+      "title1": "让银行服务",
+      "title2": "简单而安全",
+      "description": "体验我们前沿的数字银行服务，安全、便捷，为您的生活方式量身打造。",
+      "getStarted": "立即开始",
+      "imageAlt": "现代银行服务插图"
+    },
+    "features": {
+      "subtitle": "为什么选择我们",
+      "title": "现代银行所需的一切服务",
+      "security": {
+        "title": "银行级安全",
+        "description": "您的安全是我们的首要任务。我们使用最先进的加密和安全措施来保护您的资产。"
+      },
+      "savings": {
+        "title": "智能储蓄",
+        "description": "通过我们具有竞争力的利率和智能储蓄工具，最大化您的存款收益。"
+      },
+      "creditCards": {
+        "title": "优享信用卡",
+        "description": "我们提供多样化的信用卡选择，让您在每次消费中都能享受奖励。"
+      }
+    },
+    "cta": {
+      "title1": "准备好开始了吗？",
+      "title2": "几分钟内即可开户。",
+      "button": "立即开户"
+    }
+  },
+  "footer": {
+    "products": {
+      "title": "产品服务",
+      "checking": "支票账户",
+      "savings": "储蓄账户",
+      "creditCards": "信用卡",
+      "loans": "贷款"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "careers": "招贤纳士",
+      "press": "新闻中心",
+      "contact": "联系我们"
+    },
+    "resources": {
+      "title": "资源",
+      "blog": "博客",
+      "helpCenter": "帮助中心",
+      "security": "安全中心",
+      "privacy": "隐私政策"
+    },
+    "legal": {
+      "title": "法律",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "cookies": "Cookie政策",
+      "licenses": "许可证"
+    },
+    "copyright": "© 2025 奇迹银行. 保留所有权利。"
+  }
+}
