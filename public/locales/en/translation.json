@@ -1,0 +1,148 @@
+{
+  "header": {
+    "bank_name": "The Amazing Bank",
+    "nav": {
+      "home": "Home",
+      "calculator": "Interest Calculator",
+      "personal": "Personal",
+      "business": "Business",
+      "about": "About",
+      "online_banking": "Online Banking"
+    },
+    "language_switch": "中文"
+  },
+  "footer": {
+    "copyright": "© 2024 The Amazing Bank. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "security": "Security"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "phone": "+1 (888) 555-0123",
+      "email": "support@amazingbank.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Banking Made <bold>Amazing</bold>",
+      "subtitle": "Experience the future of banking with personalized solutions and cutting-edge technology",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "Modern Banking Solutions for Modern Life",
+      "items": {
+        "security": {
+          "title": "Bank-grade Security",
+          "description": "Your money and data are protected by state-of-the-art security systems"
+        },
+        "convenience": {
+          "title": "24/7 Access",
+          "description": "Manage your money anytime, anywhere with our digital banking solutions"
+        },
+        "support": {
+          "title": "Expert Support",
+          "description": "Get help when you need it from our team of banking experts"
+        }
+      }
+    },
+    "stats": {
+      "title": "Our Growth Story",
+      "customers": "{{number}} Happy Customers",
+      "satisfaction": "{{number}}% Customer Satisfaction",
+      "growth": "{{number}}% Annual Growth",
+      "assets": "Total Assets: {{amount}}"
+    },
+    "rates": {
+      "title": "Current Rates",
+      "savings": "Savings Account",
+      "cd": "Certificate of Deposit",
+      "mortgage": "Mortgage Loans",
+      "last_updated": "Last updated: {{date}}",
+      "min_balance": "Minimum balance: {{amount}}",
+      "monthly_fee": "Monthly fee: {{amount}}"
+    },
+    "rich_content": {
+      "title": "Experience Amazing Banking",
+      "html_example": "Join millions of satisfied customers who trust <bold>The Amazing Bank</bold> with their financial future. <highlight>Open an account today!</highlight>",
+      "link_example": "Learn more about our <link>financial services</link>"
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Open an account in minutes",
+      "button": "Open Account"
+    }
+  },
+  "calculator": {
+    "title": "Interest Calculator",
+    "principal": "Initial Amount",
+    "rate": "Annual Interest Rate (%)",
+    "months": "Time Period (Months)",
+    "calculate": "Calculate Interest",
+    "reset": "Reset",
+    "results": "Calculation Results",
+    "future_value": "Future Value",
+    "total_interest": "Total Interest Earned",
+    "monthly_interest": "Monthly Interest",
+    "error": {
+      "required": "This field is required",
+      "positive": "Must be a positive number",
+      "rate_range": "Rate must be between 0 and 100",
+      "months_range": "Months must be between 1 and 360"
+    },
+    "announcements": {
+      "calculated": "Calculation complete. Future value: {{amount}}. Total interest: {{interest}}. Monthly interest: {{monthly}}",
+      "reset": "Calculator has been reset",
+      "error": "Please fix the following errors: {{errors}}"
+    },
+    "keyboard": {
+      "calculate": "Calculate (Alt + C)",
+      "reset": "Reset (Alt + R)",
+      "navigate": "Navigate fields (Ctrl + ↑/↓)",
+      "next": "Next field (Tab)",
+      "previous": "Previous field (Shift + Tab)",
+      "confirm": "Calculate (Ctrl + Enter)"
+    }
+  },
+  "common": {
+    "currency": {
+      "usd": "USD",
+      "cny": "CNY"
+    },
+    "keyboard_hints": {
+      "currency_input": "Use up and down arrow keys to adjust value. Alt + arrows for larger steps.",
+      "language_switch": "Press Alt + L to change language"
+    },
+    "accessibility": {
+      "loading": "Loading...",
+      "menu_open": "Open menu",
+      "menu_close": "Close menu",
+      "language_select": "Select language"
+    },
+    "keyboard": {
+      "title": "Keyboard Shortcuts",
+      "close": "Close keyboard shortcuts guide",
+      "tip": "Press ? at any time to show this guide",
+      "sections": {
+        "general": "General",
+        "calculator": "Calculator",
+        "inputs": "Input Fields"
+      },
+      "shortcuts": {
+        "show_help": "Show/hide keyboard shortcuts",
+        "change_language": "Change language",
+        "close": "Close current dialog",
+        "calculate": "Calculate result",
+        "reset": "Reset calculator",
+        "navigate": "Navigate between fields",
+        "confirm": "Calculate result",
+        "adjust_value": "Adjust value",
+        "adjust_large": "Adjust value (larger steps)",
+        "next_field": "Move to next field",
+        "prev_field": "Move to previous field"
+      }
+    }
+  }
+}

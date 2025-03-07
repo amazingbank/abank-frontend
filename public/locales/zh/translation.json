@@ -1,0 +1,148 @@
+{
+  "header": {
+    "bank_name": "卓越银行",
+    "nav": {
+      "home": "首页",
+      "calculator": "利息计算器",
+      "personal": "个人业务",
+      "business": "企业业务",
+      "about": "关于我们",
+      "online_banking": "网上银行"
+    },
+    "language_switch": "English"
+  },
+  "footer": {
+    "copyright": "© 2024 卓越银行。保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "security": "安全保障"
+    },
+    "contact": {
+      "title": "联系我们",
+      "phone": "+86 400-888-8888",
+      "email": "support@amazingbank.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "让银行体验<bold>更卓越</bold>",
+      "subtitle": "通过个性化解决方案和前沿技术，体验未来银行服务",
+      "cta": "立即开始"
+    },
+    "features": {
+      "title": "为什么选择我们",
+      "subtitle": "现代生活的现代银行解决方案",
+      "items": {
+        "security": {
+          "title": "银行级安全",
+          "description": "您的资金和数据受到最先进的安全系统保护"
+        },
+        "convenience": {
+          "title": "全天候服务",
+          "description": "通过我们的数字银行解决方案，随时随地管理您的资金"
+        },
+        "support": {
+          "title": "专业支持",
+          "description": "需要帮助时，我们的银行专家团队随时为您服务"
+        }
+      }
+    },
+    "stats": {
+      "title": "我们的成长故事",
+      "customers": "{{number}}位满意客户",
+      "satisfaction": "{{number}}%客户满意度",
+      "growth": "{{number}}%年增长率",
+      "assets": "总资产"
+    },
+    "rates": {
+      "title": "当前利率",
+      "savings": "储蓄账户",
+      "cd": "定期存款",
+      "mortgage": "按揭贷款",
+      "last_updated": "最后更新时间：{{date}}",
+      "min_balance": "最低余额：{{amount}}",
+      "monthly_fee": "月费：{{amount}}"
+    },
+    "rich_content": {
+      "title": "体验卓越银行服务",
+      "html_example": "加入数百万信任<bold>卓越银行</bold>的满意客户。<highlight>今天就开立账户！</highlight>",
+      "link_example": "了解更多关于我们的<link>金融服务</link>"
+    },
+    "cta": {
+      "title": "准备好开始了吗？",
+      "subtitle": "几分钟内开立账户",
+      "button": "开立账户"
+    }
+  },
+  "calculator": {
+    "title": "利息计算器",
+    "principal": "初始金额",
+    "rate": "年利率 (%)",
+    "months": "期限（月）",
+    "calculate": "计算利息",
+    "reset": "重置",
+    "results": "计算结果",
+    "future_value": "未来价值",
+    "total_interest": "总利息收益",
+    "monthly_interest": "月利息",
+    "error": {
+      "required": "此字段为必填项",
+      "positive": "必须为正数",
+      "rate_range": "利率必须在0到100之间",
+      "months_range": "期限必须在1到360个月之间"
+    },
+    "announcements": {
+      "calculated": "计算完成。未来价值：{{amount}}。总利息：{{interest}}。月利息：{{monthly}}",
+      "reset": "计算器已重置",
+      "error": "请修正以下错误：{{errors}}"
+    },
+    "keyboard": {
+      "calculate": "计算 (Alt + C)",
+      "reset": "重置 (Alt + R)",
+      "navigate": "字段导航 (Ctrl + ↑/↓)",
+      "next": "下一字段 (Tab)",
+      "previous": "上一字段 (Shift + Tab)",
+      "confirm": "计算 (Ctrl + Enter)"
+    }
+  },
+  "common": {
+    "currency": {
+      "usd": "美元",
+      "cny": "人民币"
+    },
+    "keyboard_hints": {
+      "currency_input": "使用上下方向键调整数值。Alt + 方向键可进行更大幅度调整。",
+      "language_switch": "按Alt + L切换语言"
+    },
+    "accessibility": {
+      "loading": "加载中...",
+      "menu_open": "打开菜单",
+      "menu_close": "关闭菜单",
+      "language_select": "选择语言"
+    },
+    "keyboard": {
+      "title": "键盘快捷键",
+      "close": "关闭键盘快捷键指南",
+      "tip": "随时按 ? 键显示此指南",
+      "sections": {
+        "general": "通用",
+        "calculator": "计算器",
+        "inputs": "输入字段"
+      },
+      "shortcuts": {
+        "show_help": "显示/隐藏键盘快捷键",
+        "change_language": "切换语言",
+        "close": "关闭当前对话框",
+        "calculate": "计算结果",
+        "reset": "重置计算器",
+        "navigate": "在字段间导航",
+        "confirm": "计算结果",
+        "adjust_value": "调整数值",
+        "adjust_large": "调整数值（大步长）",
+        "next_field": "移至下一字段",
+        "prev_field": "移至上一字段"
+      }
+    }
+  }
+}
