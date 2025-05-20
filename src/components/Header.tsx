@@ -13,7 +13,7 @@ function Header() {
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <Link to="/" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Home</Link>
-            {/* <Link to="/interest-calculator" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Calculator</Link> */}
+            <Link to="/interest-calculator" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Calculator</Link>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Personal</a>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">Business</a>
             <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors duration-300">About</a>
@@ -26,5 +26,7 @@ function Header() {
     </nav>
   );
 }
+
+export default Header;
 
 export default Header;
